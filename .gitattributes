@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
+Software_5.json filter=lfs diff=lfs merge=lfs -text
+Cell_Phones_and_Accessories_5.json filter=lfs diff=lfs merge=lfs -text
